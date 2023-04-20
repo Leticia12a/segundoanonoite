@@ -9,7 +9,7 @@ transition: alt ease-in-out 0.3s;
 z-index: 2;
 }
 .portfolio.portfolio-wrap img {
-transtition: 0.3s;
+transition: 0.3s;
 }
 .portfolio.portfolio-wrap.portfolio-links {
 opacity:0;
